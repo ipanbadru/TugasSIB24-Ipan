@@ -1,0 +1,6 @@
+.card .img-fluid{
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  max-height: 200px;
+}
